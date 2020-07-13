@@ -1,5 +1,5 @@
 # des_crypto
-    This is the verilog implementation of DES cryptography
+    This is the verilog implementation of DES encryption and decryption
 
 # instructions for use
     1)  You should have iverilog and gtkwave installed
